@@ -1,4 +1,4 @@
-# portfolio
+# How to Run Portfolio from scratch
 
 To run the server, ensure that npm is installed
 
