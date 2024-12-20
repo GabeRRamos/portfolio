@@ -1,0 +1,27 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabeRRamos/portfolio.git"
+  },
+  
+  "keywords": [
+    "portfolio",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Gabe Ramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabeRRamos/portfolio/issues"
+  },
+  "homepage": "https://github.com/GabeRRamos/portfolio#readme"
+  
+}
